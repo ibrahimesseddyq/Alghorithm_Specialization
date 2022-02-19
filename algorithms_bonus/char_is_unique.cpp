@@ -1,4 +1,4 @@
-// Implement a algorithm to determine if a string has all unique characters, What if you cannot use additionnal datasctructure?
+// Ex1 : Implement a algorithm to determine if a string has all unique characters, What if you cannot use additionnal datasctructure?
 #include <iostream>
 using namespace std;
 int strlen(char str[]){
